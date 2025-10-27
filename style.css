@@ -18,6 +18,15 @@ background-color:lightCyan;
 .projects {
 background-color:lightCyan;
 }
+.projects img {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid;
+    border-color: darkBlue;
+    display: block;
+    margin: auto;
+}
 .contact {
 background-color:lightCyan;
 }
