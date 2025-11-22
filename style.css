@@ -17,6 +17,8 @@ background-color:lightCyan;
 }
 .projects {
 background-color:lightCyan;
+display: flex;
+flex-wrap: wrap;
 }
 .projects img {
     width: 300px;
