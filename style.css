@@ -8,7 +8,6 @@ h1 {
 }
 h2 {
     text-align: center;
-    color: lightseagreen;
 }
 .about {
 background-color:lightCyan;
@@ -19,10 +18,10 @@ background-color:lightCyan;
     width: 500px;
     height: 500px;
     padding: 20px 10px;
+    border-color: darkBlue;
     border-radius: 25%;
 }
 .projects {
-    text-align:center;
     display:flex; 
 	flex-wrap:wrap;
 }
