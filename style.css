@@ -2,10 +2,12 @@ body {
     background-color:lightpink;
     text-align: center;
 }
+h2 {
+    font-size: medium;
+}
 .about {
     color: midnightblue;
     text-align:center;
-    margin-bottom: 50px;
 }
 .skills {
     background-color:lightCyan;
@@ -53,6 +55,5 @@ body {
     float: left;
 }
 .contact {
-    margin-top: 50px;
     color:midnightblue;
 }
