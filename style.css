@@ -16,21 +16,23 @@ background-color:lightCyan;
 .skills {
 background-color:lightCyan;
     margin: 10px;
+    width: 500px;
+    height: 500px;
     padding: 20px 10px;
     border-radius: 25%;
 }
 .projects {
     text-align:center;
+    display:flex; 
+	flex-wrap:wrap;
 }
 .project {
     background-color:lightCyan;
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     margin: 10px;
     padding: 20px 10px;
-    border-radius: 25%;
-    display:flex; 
-	flex-wrap:wrap;  
+    border-radius: 25%; 
     border: 2px solid;
     border-color: darkBlue;
     display: block;
