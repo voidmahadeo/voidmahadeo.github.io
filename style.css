@@ -1,5 +1,5 @@
 body {
-    background:lightpink;
+    background-color:lightpink;
     text-align: center;
 }
 h1 {
@@ -13,14 +13,15 @@ h2 {
 background-color:lightCyan;
 }
 .skills {
-background-color:lightCyan;
+    background-color:lightCyan;
     width: 500px;
     height: 500px; 
     margin: 10px;
     padding: 20px 10px;
     border: 2px solid;
-    border-color: darkBlue;
     border-radius: 25%;
+    border-color: darkBlue;
+     float: center;
 }
 .problem_statement {
     background-color:lightCyan;
@@ -31,6 +32,7 @@ background-color:lightCyan;
     border-radius: 25%; 
     border: 2px solid;
     border-color: darkBlue;
+     float: left;
 }
 .affinity_diagram {
     background-color:lightCyan;
@@ -41,6 +43,7 @@ background-color:lightCyan;
     border-radius: 25%; 
     border: 2px solid;
     border-color: darkBlue;
+    float: left;
 }
 .project_management_4 {
     background-color:lightCyan;
@@ -56,5 +59,7 @@ background-color:lightCyan;
 background-color:lightCyan;
 }
 .resume {
+    background-color: white;
+    color: black;
     text-align: center;
 }
