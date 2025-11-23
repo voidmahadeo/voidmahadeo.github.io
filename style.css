@@ -1,5 +1,6 @@
 body {
     background:lightpink;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -14,16 +15,22 @@ background-color:lightCyan;
 }
 .skills {
 background-color:lightCyan;
+    margin: 10px;
+    padding: 20px 10px;
+    border-radius: 25%;
 }
 .projects {
-background-color:lightCyan;
+    text-align:center;
 }
-.projects img {
+.project {
+    background-color:lightCyan;
     width: 300px;
     height: 300px;
     margin: 10px;
     padding: 20px 10px;
     border-radius: 25%;
+    display:flex; 
+	flex-wrap:wrap;  
     border: 2px solid;
     border-color: darkBlue;
     display: block;
