@@ -21,32 +21,31 @@ background-color:lightCyan;
     border: 2px solid;
     border-radius: 25%;
     border-color: darkBlue;
-    float: center;
+    align-items: center;
 }
 .problem_statement {
-    background-color:lightCyan;
     width: 500px;
     height: 500px;
     margin: 10px;
     padding: 20px 10px;
     border-radius: 25%; 
     border: 2px solid;
-    border-color: darkBlue;
-     float: left;
+    border-color: darkBlue;    
+    background-color:lightCyan;
+    float: left;
 }
 .affinity_diagram {
-    background-color:lightCyan;
     width: 500px;
     height: 500px;
     margin: 10px;
     padding: 20px 10px;
     border-radius: 25%; 
     border: 2px solid;
-    border-color: darkBlue;
+    border-color: darkBlue; 
+    background-color:lightCyan;
     float: left;
 }
 .project_management_4 {
-    background-color:lightCyan;
     width: 500px;
     height: 500px;
     margin: 10px;
@@ -54,8 +53,6 @@ background-color:lightCyan;
     border-radius: 25%; 
     border: 2px solid;
     border-color: darkBlue;
+    background-color:lightCyan;
     float: left;
-}
-.contact {
-background-color:lightCyan;
 }
