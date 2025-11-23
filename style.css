@@ -14,18 +14,15 @@ background-color:lightCyan;
 }
 .skills {
 background-color:lightCyan;
-    margin: 10px;
     width: 500px;
-    height: 500px;
+    height: 500px; 
+    margin: 10px;
     padding: 20px 10px;
+    border: 2px solid;
     border-color: darkBlue;
     border-radius: 25%;
 }
-.projects {
-    display:flex; 
-	flex-wrap:wrap;
-}
-.project {
+.problem_statement {
     background-color:lightCyan;
     width: 500px;
     height: 500px;
@@ -34,9 +31,30 @@ background-color:lightCyan;
     border-radius: 25%; 
     border: 2px solid;
     border-color: darkBlue;
-    display: block;
-    margin: auto;
+}
+.affinity_diagram {
+    background-color:lightCyan;
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    padding: 20px 10px;
+    border-radius: 25%; 
+    border: 2px solid;
+    border-color: darkBlue;
+}
+.project_management_4 {
+    background-color:lightCyan;
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    padding: 20px 10px;
+    border-radius: 25%; 
+    border: 2px solid;
+    border-color: darkBlue;
 }
 .contact {
 background-color:lightCyan;
+}
+.resume {
+    text-align: center;
 }
