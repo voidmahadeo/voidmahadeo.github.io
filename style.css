@@ -21,7 +21,7 @@ background-color:lightCyan;
     border: 2px solid;
     border-radius: 25%;
     border-color: darkBlue;
-     float: center;
+    float: center;
 }
 .problem_statement {
     background-color:lightCyan;
@@ -54,12 +54,8 @@ background-color:lightCyan;
     border-radius: 25%; 
     border: 2px solid;
     border-color: darkBlue;
+    float: left;
 }
 .contact {
 background-color:lightCyan;
-}
-.resume {
-    background-color: white;
-    color: black;
-    text-align: center;
 }
