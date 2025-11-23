@@ -2,17 +2,10 @@ body {
     background-color:lightpink;
     text-align: center;
 }
-h1 {
-    color:midnightblue;
-    text-align: center;
-}
-h2 {
-    color:midnightblue;
-    text-align: center;
-}
 .about {
     color: midnightblue;
     text-align:center;
+    margin-bottom: 50px;
 }
 .skills {
     background-color:lightCyan;
@@ -58,4 +51,8 @@ h2 {
     border-color: darkBlue;
     background-color:lightCyan;
     float: left;
+}
+.contact {
+    margin-top: 50px;
+    color:midnightblue;
 }
