@@ -4,25 +4,27 @@ body {
     padding: 20px 10px;
 }
 h1{
-    font-size: x-large;
+    font-size: xx-large;
+    color: midnightblue;
 }
 h2 {
-    font-size: larger;
+    font-size: x-large;
+    color: midnightblue;
+
 }
 .about {
     color: midnightblue;
     text-align:center;
 }
 .skills {
-    background-color:lightCyan;
     width: 500px;
-    height: 500px; 
+    height: 500px;
     margin: 10px;
     padding: 20px 10px;
+    border-radius: 25%; 
     border: 2px solid;
-    border-radius: 25%;
-    border-color: darkBlue;
-    align-items: center;
+    border-color: midnightBlue;
+    background-color:lightCyan;
 }
 .problem_statement {
     width: 500px;
@@ -31,7 +33,7 @@ h2 {
     padding: 20px 10px;
     border-radius: 25%; 
     border: 2px solid;
-    border-color: darkBlue;    
+    border-color: midnightBlue;
     background-color:lightCyan;
     float: left;
 }
@@ -42,7 +44,7 @@ h2 {
     padding: 20px 10px;
     border-radius: 25%; 
     border: 2px solid;
-    border-color: darkBlue; 
+    border-color: midnightBlue;
     background-color:lightCyan;
     float: left;
 }
@@ -53,7 +55,29 @@ h2 {
     padding: 20px 10px;
     border-radius: 25%; 
     border: 2px solid;
-    border-color: darkBlue;
+    border-color: midnightBlue;
+    background-color:lightCyan;
+    float: left;
+}
+.adventure_game {
+   width: 500px;
+    height: 500px;
+    margin: 10px;
+    padding: 20px 10px;
+    border-radius: 25%; 
+    border: 2px solid;
+    border-color: midnightBlue;
+    background-color:lightCyan;
+    float: left;
+}
+.rock_paper_scissors {
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    padding: 20px 10px;
+    border-radius: 25%; 
+    border: 2px solid;
+    border-color: midnightBlue;
     background-color:lightCyan;
     float: left;
 }
