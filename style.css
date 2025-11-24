@@ -12,11 +12,15 @@ h2 {
     color: midnightblue;
 
 }
+p {
+    font-size: 15;
+}
 .about {
     color: midnightblue;
     text-align:center;
 }
 .skills {
+    text-align: center;
     width: 500px;
     height: 500px;
     margin: 10px;
@@ -27,6 +31,7 @@ h2 {
     background-color:lightCyan;
 }
 .problem_statement {
+    text-align: center;
     width: 500px;
     height: 500px;
     margin: 10px;
@@ -38,6 +43,7 @@ h2 {
     float: left;
 }
 .affinity_diagram {
+    text-align: center;
     width: 500px;
     height: 500px;
     margin: 10px;
@@ -49,6 +55,7 @@ h2 {
     float: left;
 }
 .project_management_4 {
+    text-align: center;
     width: 500px;
     height: 500px;
     margin: 10px;
@@ -60,7 +67,8 @@ h2 {
     float: left;
 }
 .adventure_game {
-   width: 500px;
+    text-align: center;
+    width: 500px;
     height: 500px;
     margin: 10px;
     padding: 20px 10px;
@@ -71,6 +79,7 @@ h2 {
     float: left;
 }
 .rock_paper_scissors {
+    text-align: center;
     width: 500px;
     height: 500px;
     margin: 10px;
